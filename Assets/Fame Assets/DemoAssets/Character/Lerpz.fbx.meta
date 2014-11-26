@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: e417b14b651bf89459b16048ce112ad7
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: antennaRight1
+    100002: ankleLeft
+    100004: mouthBottom2
+    100006: kneeLeft
+    100008: mouthBottom1
+    100010: thumbRight3
+    100012: thumbRight2
+    100014: thumbRight1
+    100016: middleFingerRight1
+    100018: pinkyFingerRight4
+    100020: pinkyFingerRight3
+    100022: pinkyFingerRight2
+    100024: pinkyFingerRight1
+    100026: elbowRight
+    100028: shoulderRight
+    100030: kneeRight
+    100032: middleFingerLeft1
+    100034: footRight
+    100036: ankleRight
+    100038: hipLeft
+    100040: toeRightTip
+    100042: toeRight
+    100044: handRight
+    100046: wristRight
+    100048: mouthLeft2
+    100050: indexFingerLeft4
+    100052: footLeft
+    100054: head
+    100056: thumbLeft2
+    100058: thumbLeft1
+    100060: middleFingerLeft3
+    100062: antennaLeft3
+    100064: antennaLeft2
+    100066: antennaLeft1
+    100068: toeLeft
+    100070: toeLeftTip
+    100072: //RootNode
+    100074: middleFingerLeft2
+    100076: aNTeNNa_trEE
+    100078: mouthLeft1
+    100080: mouthTop2
+    100082: mouthTop1
+    100084: shoulders
+    100086: torso
+    100088: rootJoint
+    100090: elbowLeft
+    100092: shoulderLeft
+    100094: pinkyFingerLeft3
+    100096: pinkyFingerLeft2
+    100098: pinkyFingerLeft1
+    100100: indexFingerRight4
+    100102: middleFingerLeft4
+    100104: indexFingerRight3
+    100106: indexFingerRight2
+    100108: indexFingerRight1
+    100110: middleFingerRight4
+    100112: middleFingerRight3
+    100114: middleFingerRight2
+    100116: indexFingerLeft1
+    100118: indexFingerLeft2
+    100120: indexFingerLeft3
+    100122: pinkyFingerLeft4
+    100124: thumbLeft3
+    100126: hipRight
+    100128: antennaRight3
+    100130: antennaRight2
+    100132: mouthRight2
+    100134: mouthRight1
+    100136: handLeft
+    100138: wristLeft
+    100140: Lerpz
+    400000: antennaRight1
+    400002: ankleLeft
+    400004: mouthBottom2
+    400006: kneeLeft
+    400008: mouthBottom1
+    400010: thumbRight3
+    400012: thumbRight2
+    400014: thumbRight1
+    400016: middleFingerRight1
+    400018: pinkyFingerRight4
+    400020: pinkyFingerRight3
+    400022: pinkyFingerRight2
+    400024: pinkyFingerRight1
+    400026: elbowRight
+    400028: shoulderRight
+    400030: kneeRight
+    400032: middleFingerLeft1
+    400034: footRight
+    400036: ankleRight
+    400038: hipLeft
+    400040: toeRightTip
+    400042: toeRight
+    400044: handRight
+    400046: wristRight
+    400048: mouthLeft2
+    400050: indexFingerLeft4
+    400052: footLeft
+    400054: head
+    400056: thumbLeft2
+    400058: thumbLeft1
+    400060: middleFingerLeft3
+    400062: antennaLeft3
+    400064: antennaLeft2
+    400066: antennaLeft1
+    400068: toeLeft
+    400070: toeLeftTip
+    400072: //RootNode
+    400074: middleFingerLeft2
+    400076: aNTeNNa_trEE
+    400078: mouthLeft1
+    400080: mouthTop2
+    400082: mouthTop1
+    400084: shoulders
+    400086: torso
+    400088: rootJoint
+    400090: elbowLeft
+    400092: shoulderLeft
+    400094: pinkyFingerLeft3
+    400096: pinkyFingerLeft2
+    400098: pinkyFingerLeft1
+    400100: indexFingerRight4
+    400102: middleFingerLeft4
+    400104: indexFingerRight3
+    400106: indexFingerRight2
+    400108: indexFingerRight1
+    400110: middleFingerRight4
+    400112: middleFingerRight3
+    400114: middleFingerRight2
+    400116: indexFingerLeft1
+    400118: indexFingerLeft2
+    400120: indexFingerLeft3
+    400122: pinkyFingerLeft4
+    400124: thumbLeft3
+    400126: hipRight
+    400128: antennaRight3
+    400130: antennaRight2
+    400132: mouthRight2
+    400134: mouthRight1
+    400136: handLeft
+    400138: wristLeft
+    400140: Lerpz
+    4300000: Lerpz
+    7400000: Take 001
+    7400002: walk
+    7400004: run
+    7400006: kick
+    7400008: punch
+    7400010: jump
+    7400012: jumpfall
+    7400014: idle
+    7400016: gotbit
+    7400018: gothit
+    7400020: walljump
+    7400022: deathfall
+    7400024: jetpackjump
+    7400026: ledgefall
+    7400028: buttstomp
+    7400030: jumpland
+    11100000: //RootNode
+    13700000: rootJoint
+    13700002: Lerpz
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walk
+      takeName: 
+      firstFrame: 1
+      lastFrame: 33
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: run
+      takeName: 
+      firstFrame: 41
+      lastFrame: 57
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: kick
+      takeName: 
+      firstFrame: 81
+      lastFrame: 97
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: punch
+      takeName: 
+      firstFrame: 101
+      lastFrame: 117
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: jump
+      takeName: 
+      firstFrame: 121
+      lastFrame: 129
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: jumpfall
+      takeName: 
+      firstFrame: 149
+      lastFrame: 157
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle
+      takeName: 
+      firstFrame: 201
+      lastFrame: 401
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gotbit
+      takeName: 
+      firstFrame: 411
+      lastFrame: 419
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gothit
+      takeName: 
+      firstFrame: 421
+      lastFrame: 429
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: walljump
+      takeName: 
+      firstFrame: 431
+      lastFrame: 448
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: deathfall
+      takeName: 
+      firstFrame: 451
+      lastFrame: 459
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: jetpackjump
+      takeName: 
+      firstFrame: 149
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: ledgefall
+      takeName: 
+      firstFrame: 149
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: buttstomp
+      takeName: 
+      firstFrame: 137
+      lastFrame: 145
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: jumpland
+      takeName: 
+      firstFrame: 161
+      lastFrame: 177
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
